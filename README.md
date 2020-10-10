@@ -2,7 +2,7 @@
 
 Ce dossier contient un exercice effectué en évaluation du module PHP
 <p>
-PHP - EXO 1 - POO
+<b>PHP - EXO 1 - POO</b><br/>
 Objectif : </br>
 <ul>
 <li>Ajouter, Modifier, Supprimer un client. Lister les clients.</li>
