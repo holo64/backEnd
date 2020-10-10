@@ -1,8 +1,8 @@
 # backEnd
 
-Ce dossier contient un exercice effcetué en évaluation du module PHP
+Ce dossier contient un exercice effectué en évaluation du module PHP
 <p>
-PHP : EXO 1 POO
+PHP - EXO 1 - POO
 Objectif : </br>
 <ul>
 <li>Ajouter, Modifier, Supprimer un client. Lister les clients.</li>
